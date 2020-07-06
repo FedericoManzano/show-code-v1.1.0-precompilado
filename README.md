@@ -174,32 +174,3 @@ retirarlas los hacemos de la siguiente manera.
     Show.ShowJavaInit({lineas: false})
 </script>
 ```
-
-## Capturas
-
-### Html 
-
-![Html Claro](/capturas/html-claro.png "Html")
-![Html Claro](/capturas/html-oscuro.png "Html")
-
-### Js 
-
-![JS Claro](/capturas/js-claro.png "JS")
-![JS Claro](/capturas/js-oscuro.png "JS")
-
-### Css 
-
-![CSS Claro](/capturas/css-claro.png "CSS")
-![CSS Oscuro](/capturas/css-oscuro.png "CSS")
-
-
-### Java 
-
-![JAVA Claro](/capturas/java-claro.png "JAVA")
-![JAVA Oscuro](/capturas/java-oscuro.png "JAVA")
-
-### C 
-
-![C Claro](/capturas/c-claro.png "C")
-![C Oscuro](/capturas/c-oscuro.png "C")
-
